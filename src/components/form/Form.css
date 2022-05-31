@@ -1,0 +1,21 @@
+.layer1 {
+    background-color: white;
+    margin-top: 50px;
+}
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.upload {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 300px;
+
+}
